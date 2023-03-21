@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img alt="timer project" src="./demo.gif" width="100%">
+  <img alt="timer project" src="./img/cover.png" width="100%">
 </p>
 
 ## ✔ Worked concepts
@@ -29,7 +29,7 @@
 ## 💻 Project
 
 <p align="center">
-  <img src="demo.gif" alt="animated" />
+  <img src="./img/demo.gif" alt="animated" />
 </p>
 
 ## 📝 License
