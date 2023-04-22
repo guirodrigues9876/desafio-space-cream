@@ -3,14 +3,14 @@
 <p align="center">Challenge Space Cream - Stage 03 Rockeseat Explorer course</p>
 
 <p align="center">
+  <a href="#-Worked-concepts">Worked concepts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-concepts">Worked concepts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-License">License</a>
 </p>
 
 <p align="center">
-  <img alt="timer project" src="./demo.gif" width="100%">
+  <img alt="timer project" src="./img/cover.png" width="100%">
 </p>
 
 ## ✔ Worked concepts
@@ -28,8 +28,10 @@
 
 ## 💻 Project
 
+  You can preview the project layout [HERE](https://www.figma.com/file/gTTZCeqxE7zDvphsqR9Wpw/Stage-03---Grid-com-anima%C3%A7%C3%B5es-(Copy)?node-id=0-1&t=gCYu7bjU7JUezLQO-0). You must have an account at [Figma](https://figma.com) to access it.
+
 <p align="center">
-  <img src="demo.gif" alt="animated" />
+  <img src="./img/demo.gif" alt="animated" />
 </p>
 
 ## 📝 License
